@@ -1,0 +1,55 @@
+.
+├── README.md
+├── hypotheses.txt
+├── maat
+│   ├── __init__.py
+│   ├── cli
+│   │   ├── demo.py
+│   │   └── full_demo.py
+│   ├── core
+│   │   ├── canonical.py
+│   │   └── records.py
+│   ├── engine
+│   │   ├── causal.py
+│   │   ├── generator.py
+│   │   ├── maat.py
+│   │   └── policy.py
+│   ├── mathx
+│   │   ├── coherence.py
+│   │   └── mdl.py
+│   ├── reactor
+│   │   └── reactor.py
+│   └── slot
+│       └── gates.py
+├── out
+│   ├── inner_R_decisions.jsonl
+│   ├── inner_R_evidence.jsonl
+│   ├── inner_R_receipts.jsonl
+│   ├── inner_observations.jsonl
+│   ├── outer_R_decisions.jsonl
+│   ├── outer_R_evidence.jsonl
+│   ├── outer_R_receipts.jsonl
+│   └── outer_observations.jsonl
+├── out_full
+│   ├── causal_graph.json
+│   ├── causal_report.json
+│   ├── inner_R_decisions.jsonl
+│   ├── inner_R_evidence.jsonl
+│   ├── inner_R_receipts.jsonl
+│   ├── inner_observations.jsonl
+│   ├── outer_R_decisions.jsonl
+│   ├── outer_R_evidence.jsonl
+│   ├── outer_R_receipts.jsonl
+│   ├── outer_observations.jsonl
+│   ├── policy.json
+│   └── policy_report.json
+├── project_structure.txt
+└── tests
+    ├── test_canonical.py
+    ├── test_engine.py
+    ├── test_integration.py
+    ├── test_mathx.py
+    ├── test_reactor.py
+    └── test_slot.py
+
+10 directories, 42 files

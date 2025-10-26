@@ -1,0 +1,220 @@
+{
+  "current_thresholds": {
+    "bayes": 0.5499999999999998,
+    "coh": 6.25,
+    "mdl": -5.5
+  },
+  "update_count": 5,
+  "cycles_since_update": 0,
+  "target_band": [
+    0.2,
+    0.35
+  ],
+  "recent_history": [
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.6499999999999999,
+        "coh": 6.75,
+        "mdl": -6.5
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    },
+    {
+      "acceptance_rate": 0.0,
+      "regret_false_accept": 0.0,
+      "regret_false_reject": 0.0,
+      "thresholds": {
+        "bayes": 0.5999999999999999,
+        "coh": 6.5,
+        "mdl": -6.0
+      }
+    }
+  ],
+  "stats": {
+    "avg_acceptance_rate": 0.0,
+    "avg_regret_false_accept": 0.0,
+    "avg_regret_false_reject": 0.0
+  }
+}
