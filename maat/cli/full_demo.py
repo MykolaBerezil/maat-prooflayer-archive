@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Full end-to-end MA'AT demo with all features:
 - Recursive reactor (inner/outer)

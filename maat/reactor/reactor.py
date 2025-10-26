@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Recursive MA'AT Reactor with control rods and SCRAM kill switch.
 Inner MA'AT observes external stream; outer MA'AT observes inner's receipts.

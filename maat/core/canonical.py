@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Canonical JSON serialization and Universal Knowledge Hash (UKH) computation.
 Ensures deterministic, tamper-evident receipts.

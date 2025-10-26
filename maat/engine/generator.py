@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Hypothesis generators: Programmatic and LLM-based.
 Provides pluggable generation strategies for MA'AT.

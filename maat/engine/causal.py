@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Causal DAG scaffolding for hypothesis constraint and edge weight learning.
 Maintains a directed acyclic graph over signals/features.

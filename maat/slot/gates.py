@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Slot decision logic with triple-gate testing and attention allocation.
 Implements Bayesian, coherence, and MDL gates for hypothesis evaluation.

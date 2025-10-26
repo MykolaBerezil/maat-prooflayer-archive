@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Bicameral MA'AT engine with R (exploratory) and L (conservative) hemispheres.
 Implements hypothesis generation, testing, and callosum transfer.

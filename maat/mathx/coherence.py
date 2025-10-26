@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Coherence analysis using FFT peak-to-mean ratio.
 Provides both NumPy-accelerated and pure-Python fallback implementations.

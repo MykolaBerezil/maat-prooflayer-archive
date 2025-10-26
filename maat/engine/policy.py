@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Learned gating policy for adaptive threshold tuning.
 Adjusts gate thresholds online to hit target acceptance band and minimize regret.

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Minimum Description Length (MDL) analysis.
 Computes description length delta between model and null hypothesis.

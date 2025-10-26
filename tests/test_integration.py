@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 Integration test for the complete MA'AT system.
 Tests all components working together.

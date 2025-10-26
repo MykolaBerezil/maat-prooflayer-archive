@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """
 AGL (Atman Governance Language) v1.0 record factories.
 Defines all canonical record types for the MA'AT system.
