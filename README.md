@@ -437,3 +437,9 @@ This implementation follows the MA'AT specification from the original technical 
 
 For questions or issues, please refer to the original MA'AT documentation.
 
+
+## License & Use
+
+**Noncommercial use only.** Code is licensed under **PolyForm Noncommercial 1.0.0**; docs/data under **CC BY-NC 4.0**.
+
+For commercial licensing, contact the repository owner.
