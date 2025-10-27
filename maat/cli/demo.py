@@ -3,6 +3,8 @@
 CLI demo for MA'AT reactor.
 """
 import argparse
+import json
+import os
 from pathlib import Path
 
 from ..reactor.reactor import RecursiveMAAT
@@ -33,8 +35,27 @@ def main():
     parser.add_argument("--seed", type=int, default=42, help="Random seed")
     parser.add_argument("--stress", action="store_true", help="Enable stress mode (lower SCRAM thresholds)")
     parser.add_argument("--use-llm-file", type=str, default=None, help="Path to hypotheses file for LLM emulation")
+    parser.add_argument("--enable-hyperbolic", action="store_true", help="Enable hyperbolic embeddings")
+    parser.add_argument("--enable-decidability", action="store_true", help="Enable decidability gate")
+    parser.add_argument("--enable-multiscale", action="store_true", help="Enable multi-scale analyzer")
+    parser.add_argument("--enable-translation", action="store_true", help="Enable cross-domain translation")
+    parser.add_argument("--enable-health", action="store_true", help="Enable system health monitor")
     
     args = parser.parse_args()
+    
+    # Write extension configuration
+    extcfg = {
+        "extensions": {
+            "hyperbolic": bool(args.enable_hyperbolic),
+            "decidability_gate": bool(args.enable_decidability),
+            "multiscale": bool(args.enable_multiscale),
+            "translation": bool(args.enable_translation),
+            "health_monitor": bool(args.enable_health)
+        }
+    }
+    os.makedirs("config", exist_ok=True)
+    with open("config/extensions.json", "w") as f:
+        f.write(json.dumps(extcfg, indent=2))
     
     outdir = Path(args.out)
     
