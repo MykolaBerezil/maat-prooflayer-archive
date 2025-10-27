@@ -1,0 +1,10 @@
+{
+  "source_repo": "MykolaBerezil/maat-prooflayer",
+  "archive_repo": "MykolaBerezil/maat-prooflayer-archive",
+  "archived_at": "2025-10-27T09:06:56Z",
+  "final_tag": "public-final-20251027",
+  "final_commit": "32fbac73cd30c03dcde15bf27ba5eec19a5007c4",
+  "zip_sha256": "bc85dce39152e9c64926372883d831c29955fa5caa6ac70ddc8530d5c601f75c",
+  "zip_sha512": "544b239b3598be2502e15f8a5a7d1cc8caf1e25c100579921b68b5c2c7745030bc1ab018dbd702db0f82f22d753170e0b3d2cd300a0bbbd3bba16d05f117c01b",
+  "release_url": "https://github.com/MykolaBerezil/maat-prooflayer/releases/tag/public-final-20251027"
+}
