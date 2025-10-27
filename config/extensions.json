@@ -1,0 +1,9 @@
+{
+  "extensions": {
+    "hyperbolic": false,
+    "decidability_gate": false,
+    "multiscale": false,
+    "translation": false,
+    "health_monitor": false
+  }
+}
