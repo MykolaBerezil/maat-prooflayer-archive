@@ -438,6 +438,21 @@ This implementation follows the MA'AT specification from the original technical 
 For questions or issues, please refer to the original MA'AT documentation.
 
 
+
+## Research Extensions (opt-in)
+
+MA'AT includes experimental research extensions that can be enabled via CLI flags:
+
+- **Hyperbolic embeddings** (`--enable-hyperbolic`) - Poincaré ball model for hierarchical causal DAGs
+- **Decidability gate** (`--enable-decidability`) - Fourth gate for computational complexity analysis
+- **Multi-scale analyzer** (`--enable-multiscale`) - Wavelet-based pattern detection across scales
+- **Cross-domain translation** (`--enable-translation`) - Hypothesis translation framework
+- **System health monitor** (`--enable-health`) - Diversity metrics and degradation detection
+
+All extensions are **OFF by default** and have zero overhead when disabled.
+
+See **docs/mep/MEP-0001-research-extensions.md** for design rationale, implementation details, and roadmap.
+
 ## License & Use
 
 **Noncommercial use only.** Code is licensed under **PolyForm Noncommercial 1.0.0**; docs/data under **CC BY-NC 4.0**.
